@@ -1,16 +1,27 @@
 What happens when you initialize a repository? Why do you need to do it?
     every file withing the repository is cloned
     i think it is usefull for creating solid code and tracking files and bugs.
+
 How is the staging area different from the working directory and the repository?
+
 What value do you think it offers?
+
 staging area is a space between working directory and repository it's like a canal before
+
 we can commit we should track our files first once we have commited then it will be saved
 in the repository.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+i only need to use the command git add <file> to upgrade the file in to staging area
+then use the command git commit to commit the changes
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+sometimes you need to make your changes without affecting master branch to see it something
+will work your own way without callobrating
 
 How do the diagrams help you visualize the branch structure?
 
